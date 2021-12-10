@@ -21,6 +21,6 @@ const scene = new ScrollMagic.Scene({
 })
     .setTween(tl)
     .setPin(".animation")
-    // uncomment to add indicators
+    //* uncomment to add indicators
     // .addIndicators({ name: "1" })
     .addTo(controller);
