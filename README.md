@@ -12,3 +12,5 @@ ScrollMagic & GSAP projects gonna be in this repo
 
 ## Live Preview (Demos)
   - [Project-1](https://fettahaud.github.io/ScrollMagic/Project-1/index.html)
+  - [Project-2](https://fettahaud.github.io/ScrollMagic/Project-2/index.html)
+  - [Project-3](https://fettahaud.github.io/ScrollMagic/Project-3/index.html)
